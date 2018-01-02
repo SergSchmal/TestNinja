@@ -1,0 +1,15 @@
+C:\Work\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.UnitTests.dll
+C:\Work\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.UnitTests.pdb
+C:\Work\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.dll
+C:\Work\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.dll
+C:\Work\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.dll
+C:\Work\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Work\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.pdb
+C:\Work\TestNinja\TestNinja.UnitTests\bin\Debug\TestNinja.dll.config
+C:\Work\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.xml
+C:\Work\TestNinja\TestNinja.UnitTests\bin\Debug\EntityFramework.xml
+C:\Work\TestNinja\TestNinja.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Work\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csprojResolveAssemblyReference.cache
+C:\Work\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.csproj.CoreCompileInputs.cache
+C:\Work\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.dll
+C:\Work\TestNinja\TestNinja.UnitTests\obj\Debug\TestNinja.UnitTests.pdb
