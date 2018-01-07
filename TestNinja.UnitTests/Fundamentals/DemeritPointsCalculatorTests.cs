@@ -3,7 +3,7 @@ using NUnit.Framework;
 using TestNinja.Fundamentals;
 using Math = System.Math;
 
-namespace TestNinja.UnitTests
+namespace TestNinja.UnitTests.Fundamentals
 {
     [TestFixture]
     public class DemeritPointsCalculatorTests
